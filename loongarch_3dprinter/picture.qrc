@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>xinweilai.png</file>
+        <file>dianji.png</file>
+        <file>loongarch.jpg</file>
+        <file>little.png</file>
+        <file>background.png</file>
+        <file>one.png</file>
+        <file>tl.webp</file>
+        <file>cll.webp</file>
+        <file>aaaa.png</file>
+        <file>xiao_back.png</file>
+    </qresource>
+</RCC>
